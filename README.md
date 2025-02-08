@@ -10,7 +10,7 @@
 
 I've been programming since 2023, I'm a Information Systems student. Currently, I'm trying to improve my skills in web development, using Java, Spring Boot, microservices, JPA, SQL aand these things. I also used to program in Node.js and Python.
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,spring,postgresql,mysql,docker,mongodb,python,js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgresql,mysql,docker,mongodb,python,js,html,css,react)](https://skillicons.dev)
 
 <hr>
 
